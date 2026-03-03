@@ -3,7 +3,7 @@
 
 (function() {
     console.clear();
-    console.log('%c🔥 NUCLEAR EXTRACTION SCRIPT 🔥', 'color: red; font-size: 20px; font-weight: bold');
+    console.log('%c🔥 THEALLSEER NUCLEAR EXTRACTION 🔥', 'color: red; font-size: 20px; font-weight: bold');
     console.log('%c⚠️  ONLY FOR YOUR OWN ACCOUNTS ⚠️', 'color: orange; font-size: 16px');
     
     let results = {
