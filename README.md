@@ -108,6 +108,7 @@ Any sensitive information in memory
 
 -----------------------------------------------------------------------------------
 
-<img width="772" height="551" alt="theallseer" src="https://github.com/user-attachments/assets/c27dbfa6-12b8-4978-9db7-dfd58390731d" />
+
+<img width="777" height="549" alt="TheAllSeer" src="https://github.com/user-attachments/assets/0ff1f0b2-62ff-40b7-aa04-fb27ed5a7278" />
 
 
